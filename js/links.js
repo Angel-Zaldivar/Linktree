@@ -1,6 +1,13 @@
 export const links = [
     {
-        name: "Twitter",
+        name: "Website Portfolio",
+        link:
+"https://azaldivar-portfolio.netlify.app/",
+        image:
+"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
+    },
+    {
+        name: "Resume",
         link:
 "https://twitter.com/geeksforgeeks",
         image:
@@ -9,49 +16,14 @@ export const links = [
     {
         name: "Linkedin",
         link:
-"https://www.linkedin.com/company/geeksforgeeks/",
-        image:
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
-    },
-    {
-        name: "Instagram",
-        link:
-"https://www.instagram.com/geeks_for_geeks/?hl=en",
+"https://www.linkedin.com/in/z-angel/",
         image:
 "https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
     },
     {
         name: "E-mail",
         link:
-"mailto:feedback@geeksforgeeks.org",
-        image:
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
-    },
-    {
-        name: "Telegram",
-        link:
-"https://t.me/geeksforgeeks_official",
-        image:
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
-    },
-    {
-        name: "YouTube",
-        link:
-"https://www.youtube.com/@GeeksforGeeksVideos/featured",
-        image:
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
-    },
-    {
-        name: "Discord",
-        link:
-"https://discord.com/invite/HvJvpjz27z",
-        image:
-"https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
-    },
-    {
-        name: "Facebook",
-        link:
-"https://www.facebook.com/geeksforgeeks.org/",
+"mailto:zaldivarangel.2004@gmail.com",
         image:
 "https://media.geeksforgeeks.org/wp-content/uploads/20230115205457/user1.png",
     },
