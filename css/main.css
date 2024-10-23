@@ -73,6 +73,7 @@ a {
     font-weight: 500;
     margin-bottom: 2rem;
     color: white;
+    text-align: center; /* Center align the text */
 }
 
 .link span {
