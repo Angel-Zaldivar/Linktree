@@ -61,6 +61,10 @@ a {
     border-radius: 15px;
 }
 
+.link img {
+    display: none; /* This will hide any images inside the .link elements */
+}
+
 .greetings {
     font-size: 2rem;
     font-weight: 700;
