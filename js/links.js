@@ -7,7 +7,7 @@ export const links = [
     {
         name: "Resume",
         link:
-"https://twitter.com/geeksforgeeks",
+"https://docs.google.com/document/d/1i_wuQoWtPnlTDkSbx2hXd02CrwTWxowpwvFBE82pFEk/edit?tab=t.0",
     },
     {
         name: "Linkedin",
