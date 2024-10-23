@@ -17,9 +17,8 @@ let allLinks = "";
 links.forEach((ele) => {
     let link = ele.link;
     let name = ele.name;
-    let image = ele.image;
 
-    allLinks += addLink(name, link, image);
+    allLinks += addLink(name, link);
 });
 
 linkContainer.innerHTML = allLinks;
