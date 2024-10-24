@@ -10,6 +10,11 @@ export const links = [
 "https://docs.google.com/document/d/1i_wuQoWtPnlTDkSbx2hXd02CrwTWxowpwvFBE82pFEk/edit?tab=t.0",
     },
     {
+        name: "Github",
+        link:
+            "https://github.com/Angel-Zaldivar"
+    },
+    {
         name: "Linkedin",
         link:
 "https://www.linkedin.com/in/z-angel/",
