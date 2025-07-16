@@ -7,7 +7,7 @@ export const links = [
     {
         name: "Resume",
         link:
-"https://docs.google.com/document/d/1-qC1cksBRsO4q5maDwKOjuqD01b17Hm40RqaHi2OLyQ/edit?tab=t.0",
+"https://docs.google.com/document/d/1TfVX2-TdproszQk5tYxigEeXgFPdwOzHzqxdiB_FvuM/edit?usp=sharing",
     },
     {
         name: "Github",
